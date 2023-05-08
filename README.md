@@ -1,4 +1,4 @@
-# Board API
+# ChAMP Engineering Final Project - Backend
 
 This is a Flask API for a board with lists and tasks.
 
