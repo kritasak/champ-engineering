@@ -14,13 +14,13 @@ To run this project locally, you will need to have the following tools installed
 1. Clone this repository:
 
 ```
-git clone https://github.com/your-username/board-api.git
+git clone https://github.com/kritasak/champ-engineering.git
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd board-api
+cd champ-engineering
 ```
 
 3. Install the required packages:
